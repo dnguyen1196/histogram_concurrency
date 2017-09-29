@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duc/Documents/homework/EE193/histogram/ee193_utils.cxx
+ee193_utils.hxx
+/home/duc/Documents/homework/EE193/histogram/ee193_utils.hxx
+
+/home/duc/Documents/homework/EE193/histogram/ee193_utils.hxx
+chrono
+-
+
+/home/duc/Documents/homework/EE193/histogram/histogram.cxx
+iostream
+-
+thread
+-
+vector
+-
+random
+-
+mutex
+-
+ee193_utils.hxx
+/home/duc/Documents/homework/EE193/histogram/ee193_utils.hxx
+

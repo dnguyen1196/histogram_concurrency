@@ -1,0 +1,3 @@
+/home/duc/Documents/homework/EE193/histogram/CMakeFiles/rebuild_cache.dir
+/home/duc/Documents/homework/EE193/histogram/CMakeFiles/edit_cache.dir
+/home/duc/Documents/homework/EE193/histogram/CMakeFiles/histogram.dir
