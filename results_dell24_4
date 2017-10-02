@@ -1,0 +1,110 @@
+dell24{mnguye16}53: ./a.out 1000000000
+
+Creating the reference histogram.
+Single-threaded creation took 1525.39msec
+
+Creating the reference histogram.
+Single-threaded creation took 1505.3msec
+
+Creating the reference histogram.
+Single-threaded creation took 1524.97msec
+
+Creating the reference histogram.
+Single-threaded creation took 1505.23msec
+
+Creating histogram using 1 threads.
+1 threads took 1827.27ms
+
+Creating histogram using 1 threads.
+1 threads took 1824.41ms
+
+Creating histogram using 1 threads.
+1 threads took 1824.48ms
+
+Creating histogram using 1 threads.
+1 threads took 1824.29ms
+
+Creating histogram using 2 threads.
+2 threads took 966.026ms
+
+Creating histogram using 2 threads.
+2 threads took 965.175ms
+
+Creating histogram using 2 threads.
+2 threads took 964.804ms
+
+Creating histogram using 2 threads.
+2 threads took 965.17ms
+
+Creating histogram using 4 threads.
+4 threads took 873.735ms
+
+Creating histogram using 4 threads.
+4 threads took 873.595ms
+
+Creating histogram using 4 threads.
+4 threads took 874.208ms
+
+Creating histogram using 4 threads.
+4 threads took 873.877ms
+
+Creating histogram using 8 threads.
+8 threads took 476.153ms
+
+Creating histogram using 8 threads.
+8 threads took 474.415ms
+
+Creating histogram using 8 threads.
+8 threads took 479.519ms
+
+Creating histogram using 8 threads.
+8 threads took 477.841ms
+
+Creating histogram using 16 threads.
+16 threads took 490.251ms
+
+Creating histogram using 16 threads.
+16 threads took 497.074ms
+
+Creating histogram using 16 threads.
+16 threads took 496.486ms
+
+Creating histogram using 16 threads.
+16 threads took 503.764ms
+
+Creating histogram using 32 threads.
+32 threads took 552.253ms
+
+Creating histogram using 32 threads.
+32 threads took 554.107ms
+
+Creating histogram using 32 threads.
+32 threads took 501.263ms
+
+Creating histogram using 32 threads.
+32 threads took 507.721ms
+
+Creating histogram using 64 threads.
+64 threads took 506.997ms
+
+Creating histogram using 64 threads.
+64 threads took 535.834ms
+
+Creating histogram using 64 threads.
+64 threads took 495.19ms
+
+Creating histogram using 64 threads.
+64 threads took 558.04ms
+
+Creating histogram using 128 threads.
+128 threads took 442.44ms
+
+Creating histogram using 128 threads.
+128 threads took 458.05ms
+
+Creating histogram using 128 threads.
+128 threads took 465.843ms
+
+Creating histogram using 128 threads.
+128 threads took 445.48ms
+

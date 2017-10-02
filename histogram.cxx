@@ -60,10 +60,10 @@ int main(int argc, char** argv)
     multithreaded (input_data,  ref_hist, 2);	// 2 threads
     multithreaded (input_data,  ref_hist, 4);	// 4 threads
     multithreaded (input_data,  ref_hist, 8);	// 8 threads
-//    multithreaded (input_data,  ref_hist, 16);
-//    multithreaded (input_data,  ref_hist, 32);
-//    multithreaded (input_data,  ref_hist, 64);
-//    multithreaded (input_data,  ref_hist, 128);
+    multithreaded (input_data,  ref_hist, 16);
+    multithreaded (input_data,  ref_hist, 32);
+    multithreaded (input_data,  ref_hist, 64);
+    multithreaded (input_data,  ref_hist, 128);
 }
 
 // This function computes the reference solution without any threading.
